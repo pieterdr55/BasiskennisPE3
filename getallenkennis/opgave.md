@@ -9,3 +9,6 @@
 26 /2 = 13 en rest 0
 13 /2 = 6 en rest 1
 6 /2 = 3 en rest 0
+3 /2 = 1 en rest 1
+1/2 = 0 en rest 1
+dit wordt 1101001101
